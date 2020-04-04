@@ -1,17 +1,17 @@
 class Student {
-	String index;
-	String firstName;
-	String lastName;
+    String index;
+    String firstName;
+    String lastName;
+    List<Integer> grades;
+    //TODO constructor
+	
+    //TODO seters & getters
 
-	//TODO constructor
+    public double getAverage() {
+        //TODO
+    }
 
-	//TODO seters & getters
-
-	public double getAverage() {
-		//TODO
-	}
-
-	public int ECTSCredits() {
-		//TODO
-	}
+    public int ECTSCredits() {
+        //TODO
+    }
 }
